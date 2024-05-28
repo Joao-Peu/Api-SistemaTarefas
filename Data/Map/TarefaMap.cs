@@ -12,6 +12,9 @@ namespace CRUDTarefas.Data.Map
             builder.Property(x => x.Nome).IsRequired().HasMaxLength(250);
             builder.Property(x => x.Descricao).HasMaxLength(1000);
             builder.Property(x => x.Status).IsRequired();
+            builder.Property(X => X.UsuarioId);
+
+            builder.HasOne(x => x.Usuario);
 
         }
     }

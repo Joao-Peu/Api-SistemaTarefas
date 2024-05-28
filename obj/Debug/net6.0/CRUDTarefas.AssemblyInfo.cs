@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDTarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e392b715bd5764257f40e115a22d05fa64606c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDTarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDTarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
